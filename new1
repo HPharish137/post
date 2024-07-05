@@ -1,16 +1,16 @@
 <Html>    
 <Head>  
 <title>  
-Example of Header-levels  
+NEW ONE   
 </title>  
 </Head>  
 <Body>   
   
-<h6> JavaTpoint </h6>   
-<h5> JavaTpoint </h5>  
-<h4> JavaTpoint </h4>  
-<h3> JavaTpoint </h3>  
-<h2> JavaTpoint </h2>  
-<h1> JavaTpoint </h1>  
+<h6> HELLO</h6>   
+<h5> HELLO </h5>  
+<h4> HELLO </h4>  
+<h3> HELLO </h3>  
+<h2> HELLO </h2>  
+<h1> HELLO </h1>  
 </Body>  
 </Html>  
